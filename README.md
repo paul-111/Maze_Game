@@ -6,4 +6,4 @@ This randomly generated maze is achieved by using a recursive backtracking algor
 
 <br><br>
 # Live website Link
- https://paul-111.github.io/Maze_Game/
+ https://paul-111.github.io/Maze_Game/  (please use desktop zoom-out to < 67% for better experience)
