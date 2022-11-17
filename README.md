@@ -4,6 +4,6 @@ This randomly generated maze is achieved by using a recursive backtracking algor
         Language- HTML, CSS, JavaScript, Jquery, SpriteJS.<br>  </p>
     
 
-
+<br><br>
 # Live website Link
  https://paul-111.github.io/Maze_Game/
